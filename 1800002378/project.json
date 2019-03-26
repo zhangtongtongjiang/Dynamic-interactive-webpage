@@ -1,0 +1,32 @@
+{
+	"description" : "基于HTML5的Canvas，你可以自定义背景音乐的音量。",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"customvolume" :
+			{
+				"text" : "Volume",
+				"type" : "slider",
+				"value" : 80,
+				"min" : 0,
+				"max" : 100,
+				"editable" : false
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Abstract" ],
+	"title" : "梦幻线条",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 900896753
+}
